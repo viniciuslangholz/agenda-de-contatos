@@ -1,4 +1,4 @@
-# Agenda de Contatos
+# ☎️ Agenda de Contatos
 Este é um projeto de uma agenda de contatos desenvolvida em HTML, CSS e JS, com o objetivo de permitir o gerenciamento de contatos de uma forma simples e organizada.
 
 A agenda de contatos oferece uma interface de usuário intuitiva, onde os usuários podem adicionar contatos, bem como visualizar informações detalhadas sobre cada contato, como nome, telefone e endereço de e-mail.
